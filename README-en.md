@@ -1,7 +1,8 @@
 
-### **2. README.md (RU версия)**
+[Ru version](README.md)
+      
 
-```markdown
+
 # Leak Analyzer (Trial Version)
 
 **Leak Analyzer** is a minimal module for data breach analysis, including parsing public databases and Tor network forums. The module allows you to find credentials such as usernames and passwords, and export them to a text file for further analysis.
