@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+aiohttp
+pandas
+stem
+pysocks
