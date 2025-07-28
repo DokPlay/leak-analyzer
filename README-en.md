@@ -42,3 +42,6 @@ Public Source Parsing: The module uses several popular websites to search for pu
 Onion Source Parsing: A Tor proxy is used to access onion sites. This module connects to the Tor network and searches forums for data breaches by making asynchronous requests to the provided links.
 
 Export to TXT File: After finding the leaks, the program saves the results to text files that can be used for further analysis.
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
